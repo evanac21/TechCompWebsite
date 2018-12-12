@@ -21,9 +21,19 @@ h1{
     color:white;
 }
 .button:hover {
-    background-color: aqua;
+    background-color: white;
     color:red;
 }
 .ba {
     padding-left: 80px;
+}
+p {
+    color:white;
+    
+}
+.basicPadding {
+    padding-left: 60px;
+}
+.specColor {
+    color:red;
 }

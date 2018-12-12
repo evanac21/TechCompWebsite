@@ -22,7 +22,7 @@
     color:white;
 }
 .button:hover {
-    background-color: aqua;
+    background-color: white;
     color:red;
 }
 p {
@@ -31,3 +31,4 @@ p {
     color:white;
     font-size 32px;
 }
+
