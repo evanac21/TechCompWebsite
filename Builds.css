@@ -1,0 +1,29 @@
+h1{
+    color:white;
+    border-style:solid;
+    border-color:red;
+    text-align: center;
+}
+.tac {
+    text-align: center
+}
+.button{
+-webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+    border-radius:8px;
+    background-color:red;
+    padding 15px 32px;
+    text-decoration:none ;
+    display: inline-block;
+    font-size: 32px;
+    float: center;
+    border: 1px solid red;
+    color:white;
+}
+.button:hover {
+    background-color: aqua;
+    color:red;
+}
+.ba {
+    padding-left: 80px;
+}

@@ -1,0 +1,33 @@
+.titleBig {
+    border-style: solid;
+    border-color:crimson;
+    font-family: monospace;
+    color:white;
+    font-size: 400%;
+}
+.taC {
+    text-align: center;
+}
+.button {
+-webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+    border-radius:8px;
+    background-color:red;
+    padding 15px 32px;
+    text-decoration:none ;
+    display: inline-block;
+    font-size: 32px;
+    float: center;
+    border: 1px solid red;
+    color:white;
+}
+.button:hover {
+    background-color: aqua;
+    color:red;
+}
+p {
+    padding-top: 300px;
+    text-align: center;
+    color:white;
+    font-size 32px;
+}
